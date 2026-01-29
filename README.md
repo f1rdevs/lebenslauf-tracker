@@ -1,10 +1,11 @@
 # Lebenslauf-Tracker
 
-Ein einfacher Python-basierter Lebenslauf-Tracker zur Verwaltung von
-Projekten, Skills und Zertifikaten.
+Dieses Repository enthält einen einfachen Lebenslauf-Tracker, der im Rahmen
+eines Softwareprojekts entwickelt wurde.
 
-#Inhalte
-- Implementierung: lebenslauf.py
-- Unit-Tests: test_lebenslauf.py
+## Funktionen
+- Verwaltung von Projekten (Titel, Rolle, Werkzeuge)
+- Verwaltung von Skills
+- Zuordnung von Skills zu Projekten als Nachweis
+- Verwaltung von Zertifikaten mit optionalem Ablaufjahr
 
-Das Projekt wird mit Git und GitHub versioniert.
