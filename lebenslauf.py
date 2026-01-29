@@ -1,3 +1,5 @@
+# Kernklasse für den Lebenslauf-Tracker
+
 class LebenslaufTracker:
     def __init__(self):
         self.projekte = {}
